@@ -11,7 +11,8 @@
 
 Final prepared and merged historic data sets are provided to simplify the assignment. Raw data is not provided due to the sensitive nature of some of the data that we have analyzed, for example turtle nesting and false crawl behavior. </p>
 
-<p>To get started, students will open the following Jupyter Notebook in Google Colab (click on link): </p>
+<p>To get started, students will open the following Jupyter Notebook in Google Colab (click on link): <br>
+<a href ="https://colab.research.google.com/github/plthomps/PredictingSharkPresence/blob/main/Predicting_Shark_Presence_1.ipynb">Colab Predicting Shark Presence Notebook</a>a></p>
 
 <p>Thank you to the following individuals and organizations for providing data and/or support for the project:<br><br>
 
