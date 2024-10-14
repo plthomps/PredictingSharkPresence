@@ -25,10 +25,6 @@ Crab Landings, NC: Alan Bianchi, Trip Ticket Coordinator License and Statistics 
 
 Data Science Initiative, UNC Charlotte Mr Rick Hudson Dr. Mirsad Hadzikadic, Executive Director<br><br>
 
-Sarah Beardmore DORSAL app, Professional Surfer<br><br>
-
-Lavanya Vinodh, MS Data Scientist, Shark Researcher<br><br>
-
 KDD Class of Summer 2015 Class Project on analyzing the shark attacks of Summer 2015 along the east coast, taught by Dr. Pamela Thompson, CS, UNCC and Catawba College, NC<br><br>
 
 Dr. Pamela Thompson Blog (Shark Research):  https://www.linkedin.com/in/drpamelathompson/
