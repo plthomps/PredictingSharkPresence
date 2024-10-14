@@ -1,4 +1,4 @@
-# PredictingSharkPresence
+# Predicting Shark Presence
 
 <h2>ASSIGNMENT OBJECTIVES:</h2><p></p> Beginning undergraduate students will learn the Machine Learning Life Cycle as they apply AI and Machine Learning in the preparation of data for use in visualization and classification as they develop a model that predicts near shore shark presence off of the coast of North Carolina and South Carolina. After domain understanding, data will be prepared and visualized from the international shark attack file, along with weather, moon phase, and prey data from online sources. Classfication and ensemble models will be used to predict the presence of sharks. Students will also understand the limitations and bias associated with this preliminary research as they explore improved data collection for great white sharks.</p>
 
